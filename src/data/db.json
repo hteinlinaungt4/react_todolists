@@ -1,0 +1,14 @@
+{
+  "todolists": [
+    {
+      "id": 1,
+      "text": "lorem is the demo text for web",
+      "complete": false
+    },
+    {
+      "id": "a709041e-8151-db5c-9250-672444dbb3b6",
+      "text": "test",
+      "complete": false
+    }
+  ]
+}
